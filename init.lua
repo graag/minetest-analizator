@@ -1,0 +1,5 @@
+minetest.debug("##############################")
+minetest.debug("Inicjalizuje analizator Swiata")
+minetest.debug("#######################")
+minetest.debug("Zarejestrowane 'items':")
+minetest.debug(dump2(minetest.registered_items))
